@@ -1,0 +1,16 @@
+{
+  "arch": "arm64",
+  "build": "py39h2804cbe_1",
+  "build_number": 1,
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python >=3.9,<3.10.0a0 *_cpython",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "license": "ISC",
+  "name": "certifi",
+  "platform": "osx",
+  "subdir": "osx-arm64",
+  "timestamp": 1635794138528,
+  "version": "2021.10.8"
+}

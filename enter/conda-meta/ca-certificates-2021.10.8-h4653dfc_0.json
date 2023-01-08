@@ -1,0 +1,46 @@
+{
+    "arch": "arm64",
+    "build": "h4653dfc_0",
+    "build_number": 0,
+    "channel": "conda-forge/osx-arm64",
+    "depends": [],
+    "extracted_package_dir": "/Users/swimmingcircle/cs156_code/enter/pkgs/ca-certificates-2021.10.8-h4653dfc_0",
+    "files": [
+        "ssl/cacert.pem",
+        "ssl/cert.pem"
+    ],
+    "fn": "ca-certificates-2021.10.8-h4653dfc_0.tar.bz2",
+    "license": "ISC",
+    "link": {
+        "source": "/Users/swimmingcircle/cs156_code/enter/pkgs/ca-certificates-2021.10.8-h4653dfc_0",
+        "type": 1
+    },
+    "md5": "d68f418ab2f7a46948ccb4053636f913",
+    "name": "ca-certificates",
+    "package_tarball_full_path": "/Users/swimmingcircle/cs156_code/enter/pkgs/ca-certificates-2021.10.8-h4653dfc_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "ssl/cacert.pem",
+                "path_type": "hardlink",
+                "sha256": "fa883829ebb8cd2a602f9b21c1f85de24cf47949d520bceb1828b4cd1cb6906c",
+                "sha256_in_prefix": "fa883829ebb8cd2a602f9b21c1f85de24cf47949d520bceb1828b4cd1cb6906c",
+                "size_in_bytes": 265969
+            },
+            {
+                "_path": "ssl/cert.pem",
+                "path_type": "softlink",
+                "sha256_in_prefix": "fa883829ebb8cd2a602f9b21c1f85de24cf47949d520bceb1828b4cd1cb6906c",
+                "size_in_bytes": 265969
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "osx",
+    "requested_spec": "ca-certificates==2021.10.8=h4653dfc_0",
+    "size": 142481,
+    "subdir": "osx-arm64",
+    "timestamp": 1633733310533,
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/ca-certificates-2021.10.8-h4653dfc_0.tar.bz2",
+    "version": "2021.10.8"
+}

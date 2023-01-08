@@ -1,0 +1,17 @@
+{
+    "arch": "arm64",
+    "build": "hc470f4d_0",
+    "build_number": 0,
+    "channel": "conda-forge/osx-arm64",
+    "depends": [],
+    "fn": "ncurses-6.3-hc470f4d_0.tar.bz2",
+    "license": "X11 AND BSD-3-Clause",
+    "md5": "6b5b4e8e22d02a9f30fc4c703d2a69f6",
+    "name": "ncurses",
+    "platform": "osx",
+    "size": 940606,
+    "subdir": "osx-arm64",
+    "timestamp": 1641758398777,
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/ncurses-6.3-hc470f4d_0.tar.bz2",
+    "version": "6.3"
+}

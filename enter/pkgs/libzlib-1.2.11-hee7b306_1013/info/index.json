@@ -1,0 +1,16 @@
+{
+  "arch": "arm64",
+  "build": "hee7b306_1013",
+  "build_number": 1013,
+  "constrains": [
+    "zlib 1.2.11 *_1013"
+  ],
+  "depends": [],
+  "license": "Zlib",
+  "license_family": "Other",
+  "name": "libzlib",
+  "platform": "osx",
+  "subdir": "osx-arm64",
+  "timestamp": 1633227014526,
+  "version": "1.2.11"
+}

@@ -1,0 +1,18 @@
+{
+    "arch": null,
+    "build": "he74cb21_0",
+    "build_number": 0,
+    "channel": "conda-forge/noarch",
+    "depends": [],
+    "fn": "tzdata-2021e-he74cb21_0.tar.bz2",
+    "license": "LicenseRef-Public-Domain",
+    "md5": "a751ec502589ebdc2eceb183ff602569",
+    "name": "tzdata",
+    "noarch": "generic",
+    "platform": null,
+    "size": 123537,
+    "subdir": "noarch",
+    "timestamp": 1634920345602,
+    "url": "https://conda.anaconda.org/conda-forge/noarch/tzdata-2021e-he74cb21_0.tar.bz2",
+    "version": "2021e"
+}

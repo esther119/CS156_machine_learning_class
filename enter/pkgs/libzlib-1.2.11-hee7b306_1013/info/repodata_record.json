@@ -1,0 +1,21 @@
+{
+    "arch": "arm64",
+    "build": "hee7b306_1013",
+    "build_number": 1013,
+    "channel": "conda-forge/osx-arm64",
+    "constrains": [
+        "zlib 1.2.11 *_1013"
+    ],
+    "depends": [],
+    "fn": "libzlib-1.2.11-hee7b306_1013.tar.bz2",
+    "license": "Zlib",
+    "license_family": "Other",
+    "md5": "fe3c74ef0fe456a4011468f860b0c3dc",
+    "name": "libzlib",
+    "platform": "osx",
+    "size": 56797,
+    "subdir": "osx-arm64",
+    "timestamp": 1633227014526,
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libzlib-1.2.11-hee7b306_1013.tar.bz2",
+    "version": "1.2.11"
+}

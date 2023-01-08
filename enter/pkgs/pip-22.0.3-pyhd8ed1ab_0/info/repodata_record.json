@@ -1,0 +1,23 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "channel": "conda-forge/noarch",
+    "depends": [
+        "python >=3.7",
+        "setuptools",
+        "wheel"
+    ],
+    "fn": "pip-22.0.3-pyhd8ed1ab_0.tar.bz2",
+    "license": "MIT",
+    "license_family": "MIT",
+    "md5": "45dedae69a0ea21cb8566d04b2ca5536",
+    "name": "pip",
+    "noarch": "python",
+    "platform": null,
+    "size": 1549889,
+    "subdir": "noarch",
+    "timestamp": 1643885429755,
+    "url": "https://conda.anaconda.org/conda-forge/noarch/pip-22.0.3-pyhd8ed1ab_0.tar.bz2",
+    "version": "22.0.3"
+}

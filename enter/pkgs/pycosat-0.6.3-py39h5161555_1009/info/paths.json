@@ -1,0 +1,73 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.9/site-packages/__pycache__/test_pycosat.cpython-39.pyc",
+      "path_type": "hardlink",
+      "sha256": "0071140309aa78ce999d6a33210afaa294785c917e7ba07355cd44690fd81dba",
+      "size_in_bytes": 13941
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "233d9a3b1d9e0d8afb120ee76b98e65c55ede04162fe37c2e803a3d38968021e",
+      "size_in_bytes": 1084
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "d17316a4b7497eafd79521832fde506b24e8a4bea972c4e077319831d08de5b3",
+      "size_in_bytes": 5454
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "3fb4fd94db47968f2409c5a85ab24e0ac98f1435076d486ea2b7f06f96a1134d",
+      "size_in_bytes": 867
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "f39fd3a2ae1423b119d6cf35c1a611e913cdb159cdd4d9823404ae4b2dfb2271",
+      "size_in_bytes": 108
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "3133c63eaf1da013a4ebddafcb249c2d16ed900e88801cfaf182de26be05f8c8",
+      "size_in_bytes": 95
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat-0.6.3.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "47df40ce884f9595883a39b54562bd8afea8e1dfd82b39165099c771ccd838d1",
+      "size_in_bytes": 21
+    },
+    {
+      "_path": "lib/python3.9/site-packages/pycosat.cpython-39-darwin.so",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pycosat_1636020570107/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+      "sha256": "947c36cf2785b2702ea587491b76b8f81204a12beaf090cbf79b0187c901011e",
+      "size_in_bytes": 142000
+    },
+    {
+      "_path": "lib/python3.9/site-packages/test_pycosat.py",
+      "path_type": "hardlink",
+      "sha256": "f7bcef178eabacb9c477ba20b88e8646ade28c86c23ed9327eecc8144777d8b2",
+      "size_in_bytes": 8806
+    }
+  ],
+  "paths_version": 1
+}

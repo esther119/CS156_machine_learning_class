@@ -1,0 +1,22 @@
+{
+    "arch": "arm64",
+    "build": "h72a2b83_0",
+    "build_number": 0,
+    "channel": "conda-forge/osx-arm64",
+    "depends": [
+        "libzlib >=1.2.11,<1.3.0a0",
+        "ncurses >=6.2,<6.3.0a0",
+        "readline >=8.1,<9.0a0",
+        "zlib >=1.2.11,<1.3.0a0"
+    ],
+    "fn": "sqlite-3.37.0-h72a2b83_0.tar.bz2",
+    "license": "Unlicense",
+    "md5": "f74a80bbaeb1ba21140af97042e9192c",
+    "name": "sqlite",
+    "platform": "osx",
+    "size": 1720154,
+    "subdir": "osx-arm64",
+    "timestamp": 1638108530186,
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/sqlite-3.37.0-h72a2b83_0.tar.bz2",
+    "version": "3.37.0"
+}
